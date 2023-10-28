@@ -13,7 +13,6 @@
 		F220EDD42AD20FC700AC9CA4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F220EDD32AD20FC700AC9CA4 /* Preview Assets.xcassets */; };
 		F2A57CB72AD5996300550C96 /* PurchaseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A57CB62AD5996300550C96 /* PurchaseButton.swift */; };
 		F2A57CBA2AD599C700550C96 /* Tick.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A57CB92AD599C700550C96 /* Tick.swift */; };
-		F2DE40D22AD9340500D774F7 /* ExpandView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DE40D12AD9340500D774F7 /* ExpandView.swift */; };
 		F2DE40D42AD9368100D774F7 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DE40D32AD9368100D774F7 /* Constants.swift */; };
 		F2DE40D62AD94BCC00D774F7 /* VoteReactionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2DE40D52AD94BCC00D774F7 /* VoteReactionView.swift */; };
 /* End PBXBuildFile section */
@@ -26,7 +25,6 @@
 		F220EDD32AD20FC700AC9CA4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F2A57CB62AD5996300550C96 /* PurchaseButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseButton.swift; sourceTree = "<group>"; };
 		F2A57CB92AD599C700550C96 /* Tick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tick.swift; sourceTree = "<group>"; };
-		F2DE40D12AD9340500D774F7 /* ExpandView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandView.swift; sourceTree = "<group>"; };
 		F2DE40D32AD9368100D774F7 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		F2DE40D52AD94BCC00D774F7 /* VoteReactionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoteReactionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -116,7 +114,6 @@
 			isa = PBXGroup;
 			children = (
 				F2A57CB62AD5996300550C96 /* PurchaseButton.swift */,
-				F2DE40D12AD9340500D774F7 /* ExpandView.swift */,
 				F2DE40D52AD94BCC00D774F7 /* VoteReactionView.swift */,
 			);
 			path = View;
@@ -202,7 +199,6 @@
 			files = (
 				F2DE40D62AD94BCC00D774F7 /* VoteReactionView.swift in Sources */,
 				F2A57CBA2AD599C700550C96 /* Tick.swift in Sources */,
-				F2DE40D22AD9340500D774F7 /* ExpandView.swift in Sources */,
 				F220EDCD2AD20FC600AC9CA4 /* HomeView.swift in Sources */,
 				F220EDCB2AD20FC600AC9CA4 /* SwiftUIJourneyApp.swift in Sources */,
 				F2A57CB72AD5996300550C96 /* PurchaseButton.swift in Sources */,
