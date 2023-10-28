@@ -8,15 +8,16 @@
 //
 
 import SwiftUI
-import SwiftData
 
 struct HomeView: View {
     var body: some View {
         NavigationStack{
+            VoteReactionView()
         }
     }
 }
 
 #Preview {
     HomeView()
+        .preferredColorScheme(.dark)
 }
